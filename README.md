@@ -5,7 +5,7 @@
 
 
 <h2>KESHAV JAISWAL</h2> 
-<p> TECH LEAD _ FLUTTER<br> Sarkari Coder<br> http://keshav-speaks.me/ </p>
+<p> Technical Lead Flutter<br> Sarkari Coder<br> http://keshav-speaks.me/ </p>
 
 <h2>Mirthula M</h2> 
 <p> Technical Associate and PR <br> Machine learning enthusiast <br> https://linkedin.com/in/mirthula-m-77b1461a4 </p>
