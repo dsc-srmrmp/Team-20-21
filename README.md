@@ -12,3 +12,5 @@
 <h2>Siddhant Singh</h2>
 <p>Administrative Lead <br> Cloud and MERN enthusiast <br> https://lmntrixsid.github.io/lmntrixsidportfolio/ </p>
 
+<h2>Shubham Giri</h2>
+<p>Technical Lead | PR<br>Web, MERN, Network Security <br> https://iamshubhamg.github.io</p>
