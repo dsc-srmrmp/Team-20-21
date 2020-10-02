@@ -3,7 +3,6 @@
 <h2>Aravind Balaji K K</h2> 
 <p> DSC Lead <br> Developer - Web, ML, UX <br> https://aravindh020.github.io/ </p>
 
-
 <h2>KESHAV JAISWAL</h2> 
 <p> Technical Lead Flutter<br> Sarkari Coder<br> http://keshav-speaks.me/ </p>
 
