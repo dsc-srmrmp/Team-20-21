@@ -9,4 +9,6 @@
 <h2>Mirthula M</h2> 
 <p> Technical Associate and PR <br> Machine learning enthusiast <br> https://linkedin.com/in/mirthula-m-77b1461a4 </p>
 
+<h2>Siddhant Singh</h2>
+<p>Administrative Lead <br> Cloud and MERN enthusiast <br> https://lmntrixsid.github.io/lmntrixsidportfolio/ </p>
 
