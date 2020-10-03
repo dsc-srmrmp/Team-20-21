@@ -1,4 +1,5 @@
 <img src="https://github.com/dsc-srmrmp/dsc-srmrmp.github.io/blob/master/assets/DSC%20SRM%20IST,%20Ramapuram%20Campus%20Logo%20x1.png?raw=true">
+<a href="https://dsc.community.dev/srm-institute-of-science-and-technology-ramapuram/" align="center"> <b>Join Chapter<b></a>
 
 <h2>Aravind Balaji K K</h2> 
 <p> DSC Lead <br> Developer - Web, ML, UX <br> https://aravindh020.github.io/ </p>
