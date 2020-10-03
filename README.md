@@ -3,9 +3,6 @@
   <p> <h3>Follow Us</h3> 
   <h3> Instagram -> https://www.instagram.com/dscsrm.rmp/</h3>
   <h3> LinkedIn -> https://www.linkedin.com/company/dsc-srm-ramapuram/</h3> </p>
-
-  
-
 <h2>Aravind Balaji K K</h2> 
 <p> DSC Lead <br> Developer - Web, ML, UX <br> https://aravindh020.github.io/ </p>
 
