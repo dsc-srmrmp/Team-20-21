@@ -14,7 +14,7 @@
 <p><i> Technical Associate and PR </i><br> Machine learning enthusiast <br> https://linkedin.com/in/mirthula-m-77b1461a4 </p>
 
 <h2>Siddhant Singh</h2>
-<p><i>Administrative Lead></i>  <br> Cloud and MERN enthusiast <br> https://lmntrixsid.github.io/lmntrixsidportfolio/ </p>
+<p><i>Administrative Lead</i>  <br> Cloud and MERN enthusiast <br> https://lmntrixsid.github.io/lmntrixsidportfolio/ </p>
 
 <h2>Shubham Giri</h2>
-<p><i>Technical Lead | PR></i> <br>Web, MERN, Network Security <br> https://iamshubhamg.github.io</p>
+<p><i>Technical Lead | PR</i> <br>Web, MERN, Network Security <br> https://iamshubhamg.github.io</p>
