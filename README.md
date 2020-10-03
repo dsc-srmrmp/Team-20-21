@@ -1,8 +1,9 @@
 <img src="https://github.com/dsc-srmrmp/dsc-srmrmp.github.io/blob/master/assets/DSC%20SRM%20IST,%20Ramapuram%20Campus%20Logo%20x1.png?raw=true">
 <a href="https://dsc.community.dev/srm-institute-of-science-and-technology-ramapuram/" align="center"> <b>Join Chapter<b></a>
   <p> <h3>Follow Us</h3> 
-  <h4> Instagram -> https://www.instagram.com/dscsrm.rmp/</h4>
-  <h4> LinkedIn -> https://www.linkedin.com/company/dsc-srm-ramapuram/</h4> </p>
+  <a href="https://www.instagram.com/dscsrm.rmp/"> Instagram </a> <br>
+  <a href="https://www.linkedin.com/company/dsc-srm-ramapuram/"> LinkedIn </a>
+ </p>
   <h2> Organizers </h2>
 <h2>Aravind Balaji K K</h2> 
   <p> <i>DSC Lead</i> <br> Developer - Web, ML, UX <br> https://aravindh020.github.io/ </p>
