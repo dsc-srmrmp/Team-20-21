@@ -2,7 +2,8 @@
 <a href="https://dsc.community.dev/srm-institute-of-science-and-technology-ramapuram/" align="center"> <b>Join Chapter<b></a>
   <p> <h3>Follow Us</h3> 
   <a href="https://www.instagram.com/dscsrm.rmp/"> Instagram </a> <br>
-  <a href="https://www.linkedin.com/company/dsc-srm-ramapuram/"> LinkedIn </a>
+  <a href="https://www.linkedin.com/company/dsc-srm-ramapuram/"> LinkedIn </a> 
+  <a href="youtube.com/channel/UCEym9CYeeSWiMtQwN9YQXOQ"> YouTube</a>
  </p>
   <h2> Organizers </h2>
 <h2>Aravind Balaji K K</h2> 
