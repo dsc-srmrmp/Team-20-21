@@ -3,7 +3,7 @@
   <p> <h3>Follow Us</h3> 
   <a href="https://www.instagram.com/dscsrm.rmp/"><img align="center" alt="Instagram" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Instagram.svg" style="max-width:100%;">&nbsp;Instagram </a> <br><br>
   <a href="https://www.linkedin.com/company/dsc-srm-ramapuram/"><img align="center" alt="LinkedIn" width="30px" height="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Linkedin.svg" style="max-width:100%;">&nbsp;LinkedIn </a> <br><br>
-  <a href="https://youtube.com/channel/UCEym9CYeeSWiMtQwN9YQXOQ"> YouTube</a>
+  <a href="https://youtube.com/channel/UCEym9CYeeSWiMtQwN9YQXOQ"> <img align="center" alt="YouTube" width="30px" height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg" style="max-width:100%;">&nbsp;YouTube</a>
  </p>
   <h2> Organizers </h2>
 <h2>Aravind Balaji K K</h2> 
