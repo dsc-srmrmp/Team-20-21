@@ -20,5 +20,5 @@
 <p><i>Technical Lead | PR</i> <br>Web, MERN, Network Security <br> https://iamshubhamg.github.io</p>
 
 <h2>Zoya Ahmad</h2>
-<p><i>Technical Associate</i> <br>Cyber Security <br> https://www.linkedin.com/in/zoya-ahmad-17396417a/</p>
+<p><i>Technical Associate</i> <br>Cyber Security Coder | Hacker | Blogger <br> https://www.linkedin.com/in/zoya-ahmad-17396417a/</p>
 
